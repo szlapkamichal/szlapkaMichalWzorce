@@ -15,4 +15,20 @@ public class Napoli extends Pizza {
         this.cena = cena;
         this.waga = waga;
     }
+
+    public double getCena() {
+        return cena;
+    }
+
+    public void setCena(double cena) {
+        this.cena = cena;
+    }
+
+    public double getWaga() {
+        return waga;
+    }
+
+    public void setWaga(double waga) {
+        this.waga = waga;
+    }
 }
