@@ -29,6 +29,7 @@ public class Arabiata extends Pasta {
     }
 
     public void setWaga(double waga) {
+
         this.waga = waga;
     }
 }
