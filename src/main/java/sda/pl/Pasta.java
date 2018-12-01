@@ -1,4 +1,5 @@
 package sda.pl;
 
-public abstract class Pasta {
+public abstract class Pasta implements Dish {
+
 }

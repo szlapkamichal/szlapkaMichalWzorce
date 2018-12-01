@@ -1,4 +1,7 @@
 package sda.pl;
 
-public abstract class Pizza {
+public abstract class Pizza implements Dish {
+
+
+
 }
